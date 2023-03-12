@@ -1,0 +1,54 @@
+.Coinsheading{
+    margin: 20px !important;
+    font-family: 'Poppins', sans-serif !important;
+    opacity: 0.85;
+}
+.Container{
+    text-align: center !important;
+}
+.Textfield{
+    margin-bottom: 20px !important;
+    width: 100% !important;
+}
+.Linearprogress{
+    background-color: gold !important;
+}
+.Tablehead{
+    background-color: gold;
+    
+}
+.Thcell{
+    color: black !important;
+    font-weight: 700 !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 15px !important;
+}
+.Tcell{
+    display: flex !important;
+    gap: 15px !important;
+}
+.tcellimage{
+    margin-bottom: 10px !important;
+    margin-top: 5px !important;
+}
+.tcellcontent{
+    display: flex !important;
+    flex-direction: column !important;
+}
+.tcproperties1{
+    text-transform: uppercase;
+    font-size: 22px !important;
+}
+.tcproperties2{
+    color: darkgrey;
+}
+.pagination{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

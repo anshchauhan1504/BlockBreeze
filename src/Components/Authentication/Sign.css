@@ -1,0 +1,9 @@
+.mainbox{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.signupbutton{
+    background-color: #EEBC1D !important;
+}

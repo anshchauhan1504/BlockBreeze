@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,300;16..144,400;16..144,700&display=swap');
+/* This * below make sure everything is set to its default */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+}
+
+a{
+  text-decoration: none;
+  color: gold;
+}

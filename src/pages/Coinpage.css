@@ -1,0 +1,23 @@
+.currency_img{
+    margin-bottom: 20px !important;
+}
+.description{
+    width: 100% !important;
+    font-family: 'Poppins', sans-serif !important;
+    padding: 25px !important;
+    padding-bottom: 15px !important;
+    padding-top: 0px !important;
+    text-align: justify !important;
+}
+.Rank{
+    display: flex !important;
+}
+.Rankvalue{
+    font-family: 'Poppins', sans-serif !important;
+}
+/* .monitorlistbutton{
+    width: 100% !important;
+    height: 40px !important;
+    background-color: antiquewhite !important;
+    font-family: 'Poppins', sans-serif !important;
+} */

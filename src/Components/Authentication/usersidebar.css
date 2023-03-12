@@ -1,0 +1,7 @@
+.coinrankvalue{
+    padding-left: 5px !important;
+}
+.monitorlist{
+    display: flex !important;
+    gap: 8 !important;
+}

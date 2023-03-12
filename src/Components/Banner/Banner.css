@@ -1,0 +1,26 @@
+.bannerContent{
+    height: 300;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25;
+    justify-content: space-around;
+}
+.subheadingstyle{
+    position:relative;
+    margin-bottom: 10px !important;
+    font-family:'Poppins', sans-serif !important;
+    opacity: 0.85;
+}
+.tagline{
+    display: flex;
+    height: 30%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.titlestyle{
+    font-weight: bold;
+    margin-bottom: 10px !important;
+    font-family:'Poppins', sans-serif !important;
+    color: gold;
+}

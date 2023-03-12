@@ -1,0 +1,18 @@
+.loginbutton{
+    width: 85px;
+    height: 40px;
+    margin-left: 15px !important;
+    background-color: #EEBC1D !important;
+    /* text-align: center; */
+}
+.navtabs{
+    background-color: transparent;
+    color: white;
+}
+.tabs1{
+    border-radius: 10px;
+}
+.googlebuttonstyle{
+    width: 100% !important;
+    outline-style:none ;
+}
